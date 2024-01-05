@@ -7,7 +7,6 @@
   },
   "devDependencies": {
     "json-server": "^0.17.4",
-    "sendmail": "^1.6.1",
-    "cypress": "13.6.2"
+    "sendmail": "^1.6.1"
   }
 }
