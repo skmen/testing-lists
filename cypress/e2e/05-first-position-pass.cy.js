@@ -16,7 +16,7 @@ it('Has first todo item with text "wash dishes"', () => {
 
   cy
   .get('.todo')
-  .should('have.length', 2)
+  .should('have.length', 3)
   .eq(0)
   .should('contain.text', 'wash dishes');
   

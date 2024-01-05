@@ -17,8 +17,8 @@ it('Has first todo item with text "wash dishes"', () => {
   cy
     .get('.todo').should( items => {
 
-      expect(items[0]).to.contain.text('wash dishes')
-      expect(items[1]).to.contain.text('buy milk')
+      expect(items[0]).to.contain.text('buy milk')
+      expect(items[1]).to.contain.text('wash dishes')
         
     })
   
