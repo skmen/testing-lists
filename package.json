@@ -8,6 +8,6 @@
   "devDependencies": {
     "json-server": "^0.17.4",
     "sendmail": "^1.6.1",
-    "cypress-io": "6.5.0"
+    "cypress": "13.6.2"
   }
 }
